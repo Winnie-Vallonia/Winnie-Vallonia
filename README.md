@@ -4,9 +4,9 @@
 
 <h3 align="center">I am a tech enthusiast who enjoys learning new technologies</h3>
 
-- 📚 I’m currently a Sophomore at **Northwestern University**
+- 📚 I’m a Junior at **Northwestern University**
 
-- 🌱 I’m currently learning **Web Development and Information Management for Data Science**
+- 🌱 I'm currently learning **Machine Learning** 
 
 - 📫 How to reach me **nnawinnievallonia@gmail.com**
 
