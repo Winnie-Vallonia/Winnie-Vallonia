@@ -10,7 +10,7 @@
 
 - 📫 You can reach me at **winnienna2027@u.northwestern.edu**
 
-- 📚 Fun fact **I love Reading and Writing**
+- 📚 Fun fact:  **I love Reading and Writing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
