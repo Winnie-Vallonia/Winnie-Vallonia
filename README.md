@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **Machine Learning** 
 
-- 📫 How to reach me **nnawinnievallonia@gmail.com**
+- 📫 You can reach me at **winnienna2027@u.northwestern.edu**
 
 - 📚 Fun fact **I love Reading and Writing **
 
